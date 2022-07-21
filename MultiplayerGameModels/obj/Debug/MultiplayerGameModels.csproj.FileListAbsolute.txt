@@ -1,0 +1,8 @@
+E:\ProjectUnity\DarkRift\MultiplayerGameModels\bin\Debug\MultiplayerGameModels.dll
+E:\ProjectUnity\DarkRift\MultiplayerGameModels\bin\Debug\MultiplayerGameModels.pdb
+E:\ProjectUnity\DarkRift\MultiplayerGameModels\obj\Debug\MultiplayerGameModels.csproj.CoreCompileInputs.cache
+E:\ProjectUnity\DarkRift\MultiplayerGameModels\obj\Debug\MultiplayerGameModels.dll
+E:\ProjectUnity\DarkRift\MultiplayerGameModels\obj\Debug\MultiplayerGameModels.pdb
+E:\ProjectUnity\DarkRift\MultiplayerGameModels\bin\Debug\DarkRift.dll
+E:\ProjectUnity\DarkRift\MultiplayerGameModels\obj\Debug\MultiplayerGameModels.csproj.CopyComplete
+E:\ProjectUnity\DarkRift\MultiplayerGameModels\obj\Debug\MultiplayerGameModels.csproj.AssemblyReference.cache
